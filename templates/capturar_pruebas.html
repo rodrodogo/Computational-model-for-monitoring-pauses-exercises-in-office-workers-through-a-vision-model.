@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
+    <!-- Load Posenet -->
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/posenet"></script>
+    <meta charset="utf-8">
+    <title>Captura de rutina</title>
+    <style media="screen">
+        div.registro {
+            color: red;
+            position: relative;
+        }
+        
+        video {
+            display: none;
+        }
+        
+        canvas {
+            border-style: solid;
+            border-width: 5px;
+        }
+        
+        div.muestra {
+            float: left;
+            border-style: solid;
+            border-width: 5px;
+        }
+        
+        div.captura {
+            float: left;
+            border-style: solid;
+            border-width: 5px;
+        }
+        
+        div.resultados {
+            text-align: center;
+            border-style: solid;
+            border-width: 5px;
+        }
+        
+        img {
+            width: 100px;
+            height: 200px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="registro">
+        <div class="resultados">
+            <h1 id="banner">Lo estas haciendo bien sigue asi</h1>
+            <p></p>
+        </div>
+
+        <div class="muestra">
+            <img id="imagen-muestra" src="{{ url_for('static', filename='images/inicio.jpg') }}" alt="">
+        </div>
+
+        <div class="captura">
+            <video id="video">
+
+        </video>
+            <canvas id="canvas" width="640" height="480"></canvas>
+
+        </div>
+
+        <input type="button" id="btn_inicio" value="iniciar rutina" onclick="send_json()">
+
+    </div>
+    <script src="{{ url_for('static', filename='js/pruebas_error.js') }}"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.js" integrity="sha256-yr4fRk/GU1ehYJPAs8P4JlTgu0Hdsp4ZKrx8bDEDC3I=" crossorigin="anonymous"></script>
+</body>
+
+</html>

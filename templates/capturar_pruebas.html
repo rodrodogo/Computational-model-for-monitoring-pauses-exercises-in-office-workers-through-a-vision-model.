@@ -5,8 +5,10 @@
     <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
     <!-- Load Posenet -->
     <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/posenet"></script>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <meta charset="utf-8">
-    <title>Captura de rutina</title>
+    <title>Realizacion de pruebas</title>
     <style media="screen">
         div.registro {
             color: red;
@@ -48,30 +50,29 @@
 </head>
 
 <body>
+    <div class="jumbotron">
+        <h1 id="banner">Lo estas haciendo bien sigue asi</h1>
+    </div>
+    <div class="registro container">
 
-    <div class="registro">
-        <div class="resultados">
-            <h1 id="banner">Lo estas haciendo bien sigue asi</h1>
-            <p></p>
+
+        <div class="row">
+            <div class=" col-sm-12 col-md-4">
+                <img id="imagen-muestra" src="{{ url_for('static', filename='images/inicio.jpg') }}" alt="">
+            </div>
+
+            <div class=" col-sm-12 col-md-8">
+                <video id="video"> </video>
+                <canvas id="canvas" width="640" height="480"></canvas>
+
+            </div>
         </div>
-
-        <div class="muestra">
-            <img id="imagen-muestra" src="{{ url_for('static', filename='images/inicio.jpg') }}" alt="">
-        </div>
-
-        <div class="captura">
-            <video id="video">
-
-        </video>
-            <canvas id="canvas" width="640" height="480"></canvas>
-
-        </div>
-
-        <input type="button" id="btn_inicio" value="iniciar rutina" onclick="send_json()">
+        <input type="button" class="btn btn-primary" id="btn_inicio" value="iniciar rutina" onclick="send_json()">
 
     </div>
     <script src="{{ url_for('static', filename='js/pruebas_error.js') }}"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.js" integrity="sha256-yr4fRk/GU1ehYJPAs8P4JlTgu0Hdsp4ZKrx8bDEDC3I=" crossorigin="anonymous"></script>
+
 </body>
 
 </html>

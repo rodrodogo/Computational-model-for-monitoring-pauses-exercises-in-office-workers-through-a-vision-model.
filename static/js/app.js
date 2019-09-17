@@ -17,7 +17,7 @@ window.addEventListener("load", function() {
     get_rutine();
     load_camera();
     load_poseNet();
-    start_rutine();
+    //start_rutine();
 
 }, false);
 
@@ -28,7 +28,7 @@ async function start_rutine() {
 
     setInterval(() => {
 
-        if (video != null || net != null) {
+        if (video != null && net != null) {
 
             detectar_puntos((pose) => {
 
@@ -148,9 +148,9 @@ const retorno = (message) => {
 
 
     if (message === "true") {
-        good_exer = false
-    } else {
         good_exer = true
+    } else {
+        good_exer = false
     }
 
     if (time_exer == null & good_exer) {
@@ -183,4 +183,9 @@ const retorno = (message) => {
         time_exer = null
     }
 
+}
+
+async function iniciar_rutina() {
+
+    start_rutine();
 }

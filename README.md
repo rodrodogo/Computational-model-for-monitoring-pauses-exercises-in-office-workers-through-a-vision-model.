@@ -1,4 +1,4 @@
-CAOS dependency manager
+Gestor de dependencias CAOS
 
 pip3 install caos
 
@@ -6,4 +6,4 @@ caos prepare
 caos update
 caos run
 
-Documentation: https://pypi.org/project/caos/
+Documentacion: https://pypi.org/project/caos/

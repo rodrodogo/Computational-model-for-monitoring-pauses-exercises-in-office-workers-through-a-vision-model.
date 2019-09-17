@@ -2,22 +2,39 @@
 <html lang="en">
 
 <head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <title>Video</title>
     <meta charset="UTF-8" />
 
 </head>
 
 <body>
+    
+<div class ='container border border-secundary'>
+    <div class ="row border border-tertiary" >
+<div_ class ="col-sm-12">
+    <form  action="/capturar_pruebas" , method="post">
+        <div class="form-group ">
+        <label class ="text-center" for = 'name_log'>Servidor de pruebas</label>
+        <input class ="form-control" type="text" id="name_log" name="name_log">
+        <button  class =' mt-5 btn btn-primary' type="submit" name="button">Realización de pruebas</button>
+    </div>
+    </form>
+    
+</div>
+<div class ="row  border border-tertiary ">
     <form class="" action="/captura">
-        <button type="submit" name="button">Captura de rutina</button>
+        <div class ="col-sm-12">
+                <div class="form-group ">
+ 
+        <button  class =" mt-5 btn btn-primary" type="submit" name="button">Captura de rutina</button>
+    </div>
     </form>
-
-    <form class="" action="/capturar_pruebas" , method="post">
-        <label>Servidor de pruebas</label>
-        <input type="text" id="name_log" name="name_log">
-        <button type="submit" name="button">Realización de pruebas</button>
-    </form>
+    </div>
+</div>
+</div_>
 
 </body>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
 </html>

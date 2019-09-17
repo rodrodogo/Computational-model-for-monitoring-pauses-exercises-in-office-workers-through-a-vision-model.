@@ -5911,3 +5911,812 @@ mean_squared_error : 0.02216687033800082
 
 Pose done : False; with value: 0.44004109196198415 ; In excercise:  5
 
+
+name 
+
+
+name 
+
+
+name 
+
+
+name 
+
+
+name 
+
+
+name 
+
+
+name 
+
+
+name 
+
+
+name 
+
+
+name 
+
+
+name 
+
+
+name 
+
+
+name 
+
+mean_squared_error : 0.019530517031432004
+mean_squared_error : 0.019530517031432004
+mean_squared_error : 0.025371759042850654
+
+Pose done : False; with value: 0.42022713800533196 ; In excercise:  1
+
+mean_squared_error : 0.025371759042850654
+
+Pose done : False; with value: 0.4519463327858885 ; In excercise:  1
+
+mean_squared_error : 0.02549955088831605
+mean_squared_error : 0.02549955088831605
+
+Pose done : False; with value: 0.513884061460868 ; In excercise:  1
+
+mean_squared_error : 0.025663692875143834
+mean_squared_error : 0.025663692875143834
+
+Pose done : False; with value: 0.5192534327071354 ; In excercise:  1
+
+mean_squared_error : 0.009959438420052372
+mean_squared_error : 0.009959438420052372
+
+Pose done : False; with value: 0.30094850099346976 ; In excercise:  1
+
+mean_squared_error : 0.020192519179875374
+mean_squared_error : 0.020192519179875374
+
+Pose done : False; with value: 0.5075051572473093 ; In excercise:  1
+
+mean_squared_error : 0.008535388256193575
+mean_squared_error : 0.008535388256193575
+
+Pose done : False; with value: 0.2464594405285536 ; In excercise:  1
+
+mean_squared_error : 0.02924060545464609
+mean_squared_error : 0.02924060545464609
+
+Pose done : False; with value: 0.5771273384719914 ; In excercise:  1
+
+mean_squared_error : 0.02476248233915375
+mean_squared_error : 0.02476248233915375
+
+Pose done : False; with value: 0.5613511531323154 ; In excercise:  1
+
+mean_squared_error : 0.021518908569333743
+mean_squared_error : 0.021518908569333743
+
+Pose done : False; with value: 0.5441992019748522 ; In excercise:  1
+
+mean_squared_error : 0.028231900088742885
+mean_squared_error : 0.028231900088742885
+
+Pose done : False; with value: 0.5419399441657784 ; In excercise:  1
+
+mean_squared_error : 0.025238710597548578
+mean_squared_error : 0.025238710597548578
+
+Pose done : False; with value: 0.5473152191550947 ; In excercise:  1
+
+mean_squared_error : 0.0240611844004556
+mean_squared_error : 0.0240611844004556
+
+Pose done : False; with value: 0.4882519059085269 ; In excercise:  1
+
+mean_squared_error : 0.016520338969615057
+mean_squared_error : 0.016520338969615057
+
+Pose done : False; with value: 0.39388348201347245 ; In excercise:  1
+
+mean_squared_error : 0.02606966704155562
+mean_squared_error : 0.02606966704155562
+
+Pose done : False; with value: 0.5384297617958806 ; In excercise:  1
+
+mean_squared_error : 0.016541710070329525
+mean_squared_error : 0.016541710070329525
+
+Pose done : False; with value: 0.4840735692621684 ; In excercise:  1
+
+mean_squared_error : 0.02442811693575262
+mean_squared_error : 0.02442811693575262
+
+Pose done : False; with value: 0.4659844857325551 ; In excercise:  1
+
+mean_squared_error : 0.028650702988293225
+mean_squared_error : 0.028650702988293225
+
+Pose done : False; with value: 0.5399225600771532 ; In excercise:  1
+
+mean_squared_error : 0.00895786166966986
+mean_squared_error : 0.00895786166966986
+
+Pose done : False; with value: 0.3243388738691529 ; In excercise:  1
+
+mean_squared_error : 0.008480115610949666
+mean_squared_error : 0.008480115610949666
+
+Pose done : False; with value: 0.26341450911517644 ; In excercise:  1
+
+mean_squared_error : 0.02754994118816962
+mean_squared_error : 0.02754994118816962
+
+Pose done : False; with value: 0.5234246340009618 ; In excercise:  1
+
+mean_squared_error : 0.023129842859776168
+mean_squared_error : 0.023129842859776168
+
+Pose done : False; with value: 0.5623656628195268 ; In excercise:  1
+
+mean_squared_error : 0.026903433578000943
+mean_squared_error : 0.026903433578000943
+
+Pose done : False; with value: 0.6416964084511996 ; In excercise:  1
+
+mean_squared_error : 0.027555913978101847
+mean_squared_error : 0.027555913978101847
+
+Pose done : False; with value: 0.49383241871486083 ; In excercise:  1
+
+mean_squared_error : 0.024648627250124865
+mean_squared_error : 0.024648627250124865
+
+Pose done : False; with value: 0.6049315870923372 ; In excercise:  1
+
+mean_squared_error : 0.03309477689704108
+mean_squared_error : 0.03309477689704108
+
+Pose done : False; with value: 0.5094141909210448 ; In excercise:  1
+
+mean_squared_error : 0.027511233514988836
+mean_squared_error : 0.027511233514988836
+
+Pose done : False; with value: 0.5109074537683655 ; In excercise:  1
+
+mean_squared_error : 0.012947844185795337
+mean_squared_error : 0.012947844185795337
+
+Pose done : False; with value: 0.32702961112830903 ; In excercise:  1
+
+mean_squared_error : 0.0173563996279685
+mean_squared_error : 0.0173563996279685
+
+Pose done : False; with value: 0.4895970172121429 ; In excercise:  1
+
+mean_squared_error : 0.025815471454866158
+mean_squared_error : 0.025815471454866158
+
+Pose done : False; with value: 0.6509400931001627 ; In excercise:  1
+
+mean_squared_error : 0.013060002875279201
+mean_squared_error : 0.013060002875279201
+
+Pose done : False; with value: 0.3436420663266379 ; In excercise:  1
+
+mean_squared_error : 0.029949379750295296
+mean_squared_error : 0.029949379750295296
+
+Pose done : False; with value: 0.46743286599477535 ; In excercise:  1
+
+mean_squared_error : 0.02838482562199728
+mean_squared_error : 0.02838482562199728
+
+Pose done : False; with value: 0.5162524196916515 ; In excercise:  1
+
+mean_squared_error : 0.008877607814974951
+mean_squared_error : 0.008877607814974951
+
+Pose done : False; with value: 0.2768899086150532 ; In excercise:  1
+
+mean_squared_error : 0.01663147944526599
+mean_squared_error : 0.01663147944526599
+
+Pose done : False; with value: 0.39064009351038737 ; In excercise:  1
+
+mean_squared_error : 0.025787665188242444
+mean_squared_error : 0.025787665188242444
+
+Pose done : False; with value: 0.510714070809682 ; In excercise:  1
+
+mean_squared_error : 0.020937192106361812
+mean_squared_error : 0.020937192106361812
+
+Pose done : False; with value: 0.5220428295903946 ; In excercise:  1
+
+mean_squared_error : 0.024738652677081297
+mean_squared_error : 0.024738652677081297
+
+Pose done : False; with value: 0.4926617510967771 ; In excercise:  1
+
+mean_squared_error : 0.010202581812257671
+mean_squared_error : 0.010202581812257671
+
+Pose done : False; with value: 0.300709916325236 ; In excercise:  1
+
+mean_squared_error : 0.027818772691672287
+mean_squared_error : 0.027818772691672287
+
+Pose done : False; with value: 0.6368918427810006 ; In excercise:  1
+
+mean_squared_error : 0.009571313537140413
+mean_squared_error : 0.009571313537140413
+
+Pose done : False; with value: 0.2670921101631903 ; In excercise:  1
+
+mean_squared_error : 0.019951819367594444
+mean_squared_error : 0.019951819367594444
+
+Pose done : False; with value: 0.47178649505505404 ; In excercise:  1
+
+mean_squared_error : 0.006734644674825708
+mean_squared_error : 0.006734644674825708
+
+Pose done : False; with value: 0.22861478596643287 ; In excercise:  1
+
+mean_squared_error : 0.02306945484010434
+mean_squared_error : 0.02306945484010434
+mean_squared_error : 0.026629404451447448
+
+Pose done : False; with value: 0.4326182983320232 ; In excercise:  1
+
+mean_squared_error : 0.026629404451447448
+
+Pose done : False; with value: 0.539823271714976 ; In excercise:  1
+
+mean_squared_error : 0.024892298302288868
+mean_squared_error : 0.024892298302288868
+
+Pose done : False; with value: 0.5348899118139907 ; In excercise:  1
+
+mean_squared_error : 0.011742429411380213
+mean_squared_error : 0.011742429411380213
+
+Pose done : False; with value: 0.2861746488685541 ; In excercise:  1
+
+mean_squared_error : 0.028446804872191988
+mean_squared_error : 0.028446804872191988
+
+Pose done : False; with value: 0.5373923472610238 ; In excercise:  1
+
+mean_squared_error : 0.012735657796323107
+mean_squared_error : 0.012735657796323107
+
+Pose done : False; with value: 0.3914699441092754 ; In excercise:  1
+
+mean_squared_error : 0.032324699224457944
+mean_squared_error : 0.032324699224457944
+
+Pose done : False; with value: 0.6094565907160449 ; In excercise:  1
+
+mean_squared_error : 0.02790298030037991
+mean_squared_error : 0.02790298030037991
+
+Pose done : False; with value: 0.5327749463836184 ; In excercise:  1
+
+mean_squared_error : 0.023924376557186298
+mean_squared_error : 0.023924376557186298
+
+Pose done : False; with value: 0.4094634327730928 ; In excercise:  1
+
+mean_squared_error : 0.025676779589771558
+mean_squared_error : 0.025676779589771558
+
+Pose done : False; with value: 0.6369853465917684 ; In excercise:  1
+
+mean_squared_error : 0.02690406500711895
+mean_squared_error : 0.02690406500711895
+
+Pose done : False; with value: 0.625814825939085 ; In excercise:  1
+
+mean_squared_error : 0.016330261467255226
+mean_squared_error : 0.016330261467255226
+
+Pose done : False; with value: 0.43529915801210295 ; In excercise:  1
+
+mean_squared_error : 0.013739322654073525
+mean_squared_error : 0.013739322654073525
+
+Pose done : False; with value: 0.30664765081432355 ; In excercise:  1
+
+mean_squared_error : 0.02649454449130873
+mean_squared_error : 0.02649454449130873
+
+Pose done : False; with value: 0.4600758589066203 ; In excercise:  1
+
+mean_squared_error : 0.027086475003887105
+mean_squared_error : 0.027086475003887105
+
+Pose done : False; with value: 0.4748617093337023 ; In excercise:  1
+
+mean_squared_error : 0.029062115416550544
+mean_squared_error : 0.029062115416550544
+
+Pose done : False; with value: 0.658216132642582 ; In excercise:  1
+
+mean_squared_error : 0.02890535598488919
+mean_squared_error : 0.02890535598488919
+
+Pose done : False; with value: 0.6168026670125742 ; In excercise:  1
+
+mean_squared_error : 0.02870903996479192
+mean_squared_error : 0.02870903996479192
+
+Pose done : False; with value: 0.5815844150115386 ; In excercise:  1
+
+mean_squared_error : 0.023395298342095312
+mean_squared_error : 0.023395298342095312
+
+Pose done : False; with value: 0.5620677924023887 ; In excercise:  1
+
+mean_squared_error : 0.026669027298078653
+mean_squared_error : 0.026669027298078653
+
+Pose done : False; with value: 0.5008919034593304 ; In excercise:  1
+
+mean_squared_error : 0.03043491014950364
+mean_squared_error : 0.03043491014950364
+
+Pose done : False; with value: 0.6115062483775862 ; In excercise:  1
+
+mean_squared_error : 0.018446398245378547
+mean_squared_error : 0.018446398245378547
+mean_squared_error : 0.014408685856823289
+
+Pose done : False; with value: 0.47444077027744747 ; In excercise:  1
+
+mean_squared_error : 0.014408685856823289
+
+Pose done : False; with value: 0.39402814579314044 ; In excercise:  1
+
+mean_squared_error : 0.020438811782229692
+mean_squared_error : 0.020438811782229692
+
+Pose done : False; with value: 0.40957124883983204 ; In excercise:  1
+
+mean_squared_error : 0.013293591077825921
+mean_squared_error : 0.013293591077825921
+
+Pose done : False; with value: 0.30529305750306623 ; In excercise:  1
+
+mean_squared_error : 0.020708853289781597
+mean_squared_error : 0.020708853289781597
+
+Pose done : False; with value: 0.4388564890569601 ; In excercise:  1
+
+mean_squared_error : 0.01903694092442753
+mean_squared_error : 0.01903694092442753
+
+Pose done : False; with value: 0.44730010646268403 ; In excercise:  1
+
+mean_squared_error : 0.02575295645967706
+mean_squared_error : 0.02575295645967706
+
+Pose done : False; with value: 0.5391393585914522 ; In excercise:  1
+
+mean_squared_error : 0.013574672040218666
+mean_squared_error : 0.013574672040218666
+
+Pose done : False; with value: 0.2948858464191376 ; In excercise:  1
+
+mean_squared_error : 0.016167877847498676
+mean_squared_error : 0.016167877847498676
+
+Pose done : False; with value: 0.4038156874406758 ; In excercise:  1
+
+mean_squared_error : 0.025190671435141133
+mean_squared_error : 0.025190671435141133
+
+Pose done : False; with value: 0.528239939634764 ; In excercise:  1
+
+mean_squared_error : 0.031804588786668475
+mean_squared_error : 0.031804588786668475
+
+Pose done : False; with value: 0.594257429120255 ; In excercise:  1
+
+mean_squared_error : 0.02702794628174393
+mean_squared_error : 0.02702794628174393
+mean_squared_error : 0.019730056409656777
+
+Pose done : False; with value: 0.49785558895362636 ; In excercise:  1
+
+mean_squared_error : 0.019730056409656777
+
+Pose done : False; with value: 0.4584424127412695 ; In excercise:  1
+
+mean_squared_error : 0.019032450573716456
+mean_squared_error : 0.019032450573716456
+
+Pose done : False; with value: 0.4758413636771391 ; In excercise:  1
+
+mean_squared_error : 0.02870609536284204
+mean_squared_error : 0.02870609536284204
+
+Pose done : False; with value: 0.5069985448427752 ; In excercise:  1
+
+mean_squared_error : 0.029001294950088394
+mean_squared_error : 0.029001294950088394
+
+Pose done : False; with value: 0.5246529027951681 ; In excercise:  1
+
+mean_squared_error : 0.019045733556730032
+mean_squared_error : 0.019045733556730032
+
+Pose done : False; with value: 0.4399393581735604 ; In excercise:  1
+
+mean_squared_error : 0.02876835742470041
+mean_squared_error : 0.02876835742470041
+
+Pose done : False; with value: 0.5221783183913726 ; In excercise:  1
+
+mean_squared_error : 0.032998170850130674
+mean_squared_error : 0.032998170850130674
+
+Pose done : False; with value: 0.5278381147335732 ; In excercise:  1
+
+mean_squared_error : 0.029512875154948996
+mean_squared_error : 0.029512875154948996
+
+Pose done : False; with value: 0.526794501487322 ; In excercise:  1
+
+mean_squared_error : 0.027859605739626127
+mean_squared_error : 0.027859605739626127
+
+Pose done : False; with value: 0.5608302876376831 ; In excercise:  1
+
+mean_squared_error : 0.032297718692128156
+mean_squared_error : 0.032297718692128156
+
+Pose done : False; with value: 0.5356825443669917 ; In excercise:  1
+
+mean_squared_error : 0.014748194471444483
+mean_squared_error : 0.014748194471444483
+
+Pose done : False; with value: 0.3738223716897477 ; In excercise:  1
+
+mean_squared_error : 0.0211129913485072
+mean_squared_error : 0.0211129913485072
+
+Pose done : False; with value: 0.5390123058183117 ; In excercise:  1
+
+mean_squared_error : 0.010909235100321954
+mean_squared_error : 0.010909235100321954
+
+Pose done : False; with value: 0.29876982453598044 ; In excercise:  1
+
+mean_squared_error : 0.003769307740313229
+mean_squared_error : 0.003769307740313229
+
+Pose done : False; with value: 0.1975968087510569 ; In excercise:  1
+
+mean_squared_error : 0.03242718054747668
+mean_squared_error : 0.03242718054747668
+
+Pose done : False; with value: 0.532002245533474 ; In excercise:  1
+
+mean_squared_error : 0.029247016924629703
+mean_squared_error : 0.029247016924629703
+
+Pose done : False; with value: 0.5388725928064569 ; In excercise:  1
+
+mean_squared_error : 0.027618316420157617
+mean_squared_error : 0.027618316420157617
+
+Pose done : False; with value: 0.5228821772612688 ; In excercise:  1
+
+mean_squared_error : 0.01827909212270275
+mean_squared_error : 0.01827909212270275
+
+Pose done : False; with value: 0.47899703566370344 ; In excercise:  1
+
+mean_squared_error : 0.029666678358180865
+mean_squared_error : 0.029666678358180865
+
+Pose done : False; with value: 0.4215347048226246 ; In excercise:  1
+
+mean_squared_error : 0.031781812976134055
+mean_squared_error : 0.031781812976134055
+
+Pose done : False; with value: 0.5788572676349499 ; In excercise:  1
+
+mean_squared_error : 0.02986148656437122
+mean_squared_error : 0.02986148656437122
+
+Pose done : False; with value: 0.6049184908363396 ; In excercise:  1
+
+mean_squared_error : 0.024045415956877376
+mean_squared_error : 0.024045415956877376
+
+Pose done : False; with value: 0.45741764689654024 ; In excercise:  1
+
+mean_squared_error : 0.02165479546600095
+mean_squared_error : 0.02165479546600095
+
+Pose done : False; with value: 0.4665350191505379 ; In excercise:  1
+
+mean_squared_error : 0.012516754583240027
+mean_squared_error : 0.012516754583240027
+
+Pose done : False; with value: 0.31412983097794706 ; In excercise:  1
+
+mean_squared_error : 0.029942347787392062
+mean_squared_error : 0.029942347787392062
+
+Pose done : False; with value: 0.551371522507866 ; In excercise:  1
+
+mean_squared_error : 0.025740025494948724
+mean_squared_error : 0.025740025494948724
+
+Pose done : False; with value: 0.4666531266471972 ; In excercise:  1
+
+mean_squared_error : 0.02617313252460946
+mean_squared_error : 0.02617313252460946
+mean_squared_error : 0.028745382839647515
+
+Pose done : False; with value: 0.4958946938538075 ; In excercise:  1
+
+mean_squared_error : 0.028745382839647515
+
+Pose done : False; with value: 0.6085792661060533 ; In excercise:  1
+
+mean_squared_error : 0.02279294603047662
+mean_squared_error : 0.02279294603047662
+
+Pose done : False; with value: 0.46550429090476714 ; In excercise:  1
+
+mean_squared_error : 0.02979837900671132
+mean_squared_error : 0.02979837900671132
+
+Pose done : False; with value: 0.5551414397574106 ; In excercise:  1
+
+mean_squared_error : 0.03025672969424922
+mean_squared_error : 0.03025672969424922
+
+Pose done : False; with value: 0.5720614592814875 ; In excercise:  1
+
+mean_squared_error : 0.03038835884729898
+mean_squared_error : 0.03038835884729898
+
+Pose done : False; with value: 0.5118248258571033 ; In excercise:  1
+
+mean_squared_error : 0.033459055796959396
+mean_squared_error : 0.033459055796959396
+
+Pose done : False; with value: 0.5970377435887086 ; In excercise:  1
+
+mean_squared_error : 0.029300427380606744
+mean_squared_error : 0.029300427380606744
+
+Pose done : False; with value: 0.5413824502365213 ; In excercise:  1
+
+mean_squared_error : 0.020107969981366276
+mean_squared_error : 0.020107969981366276
+
+Pose done : False; with value: 0.463692747812585 ; In excercise:  1
+
+mean_squared_error : 0.029439613377116203
+mean_squared_error : 0.029439613377116203
+
+Pose done : False; with value: 0.6363408748031071 ; In excercise:  1
+
+mean_squared_error : 0.02265216268651893
+mean_squared_error : 0.02265216268651893
+
+Pose done : False; with value: 0.5332413064951455 ; In excercise:  1
+
+mean_squared_error : 0.016684808427431745
+mean_squared_error : 0.016684808427431745
+
+Pose done : False; with value: 0.3627766964491322 ; In excercise:  1
+
+mean_squared_error : 0.018485368123655328
+mean_squared_error : 0.018740294193799613
+mean_squared_error : 0.018485368123655328
+mean_squared_error : 0.018740294193799613
+
+Pose done : False; with value: 0.44320567043668097 ; In excercise:  1
+
+
+Pose done : False; with value: 0.43953774975061966 ; In excercise:  1
+
+mean_squared_error : 0.013914338497677467
+mean_squared_error : 0.013914338497677467
+
+Pose done : False; with value: 0.39768415484283864 ; In excercise:  1
+
+mean_squared_error : 0.020203177230274736
+mean_squared_error : 0.020203177230274736
+
+Pose done : False; with value: 0.45742490118434886 ; In excercise:  1
+
+mean_squared_error : 0.015346922135995936
+mean_squared_error : 0.015346922135995936
+mean_squared_error : 0.03152424633160385
+
+Pose done : False; with value: 0.43635111872210236 ; In excercise:  1
+
+mean_squared_error : 0.03152424633160385
+
+Pose done : False; with value: 0.5129724234380563 ; In excercise:  1
+
+mean_squared_error : 0.013948439879153413
+mean_squared_error : 0.013948439879153413
+mean_squared_error : 0.01590389365180641
+
+Pose done : False; with value: 0.3399035891031667 ; In excercise:  1
+
+mean_squared_error : 0.01590389365180641
+
+Pose done : False; with value: 0.3182119775303172 ; In excercise:  1
+
+mean_squared_error : 0.029757274470719075
+mean_squared_error : 0.029757274470719075
+mean_squared_error : 0.029757274470719075
+
+Pose done : False; with value: 0.5543165880592169 ; In excercise:  1
+
+mean_squared_error : 0.029757274470719075
+
+Pose done : False; with value: 0.5543165880592169 ; In excercise:  1
+
+mean_squared_error : 0.016542664556078095
+mean_squared_error : 0.016542664556078095
+mean_squared_error : 0.016542664556078095
+
+Pose done : False; with value: 0.37928387042742057 ; In excercise:  1
+
+mean_squared_error : 0.016542664556078095
+
+Pose done : False; with value: 0.37928387042742057 ; In excercise:  1
+
+mean_squared_error : 0.021881190466840773
+mean_squared_error : 0.021881190466840773
+mean_squared_error : 0.021881190466840773
+
+Pose done : False; with value: 0.47556496643636886 ; In excercise:  1
+
+mean_squared_error : 0.021881190466840773
+
+Pose done : False; with value: 0.47556496643636886 ; In excercise:  1
+
+mean_squared_error : 0.01722775347665762
+mean_squared_error : 0.01722775347665762
+mean_squared_error : 0.011711331482689234
+
+Pose done : False; with value: 0.4403161384150192 ; In excercise:  1
+
+mean_squared_error : 0.011711331482689234
+mean_squared_error : 0.011711331482689234
+
+Pose done : False; with value: 0.35535587919932543 ; In excercise:  1
+
+mean_squared_error : 0.011711331482689234
+
+Pose done : False; with value: 0.35535587919932543 ; In excercise:  1
+
+mean_squared_error : 0.005641676437308199
+mean_squared_error : 0.010836183313648122
+mean_squared_error : 0.005641676437308199
+mean_squared_error : 0.010836183313648122
+
+Pose done : False; with value: 0.20059915683884105 ; In excercise:  1
+
+
+Pose done : False; with value: 0.24461296097381363 ; In excercise:  1
+
+mean_squared_error : 0.010836183313648122
+mean_squared_error : 0.010836183313648122
+
+Pose done : False; with value: 0.24461296097381363 ; In excercise:  1
+
+mean_squared_error : 0.01118315310411961
+mean_squared_error : 0.01118315310411961
+
+Pose done : False; with value: 0.2572730534451781 ; In excercise:  1
+
+mean_squared_error : 0.01118315310411961
+mean_squared_error : 0.01118315310411961
+mean_squared_error : 0.01118315310411961
+mean_squared_error : 0.008406216720631757
+
+Pose done : False; with value: 0.2572730534451781 ; In excercise:  1
+
+mean_squared_error : 0.01118315310411961
+mean_squared_error : 0.008406216720631757
+
+Pose done : False; with value: 0.2572730534451781 ; In excercise:  1
+
+
+Pose done : False; with value: 0.2166607931421478 ; In excercise:  1
+
+mean_squared_error : 0.010532047060116645
+mean_squared_error : 0.010532047060116645
+mean_squared_error : 0.010532047060116645
+mean_squared_error : 0.010532047060116645
+mean_squared_error : 0.010532047060116645
+mean_squared_error : 0.010532047060116645
+
+Pose done : False; with value: 0.24920691383579283 ; In excercise:  1
+
+mean_squared_error : 0.010532047060116645
+
+Pose done : False; with value: 0.24920691383579283 ; In excercise:  1
+
+
+Pose done : False; with value: 0.24920691383579283 ; In excercise:  1
+
+mean_squared_error : 0.010532047060116645
+
+Pose done : False; with value: 0.24920691383579283 ; In excercise:  1
+
+mean_squared_error : 0.01847903867764758
+mean_squared_error : 0.01847903867764758
+mean_squared_error : 0.01847903867764758
+mean_squared_error : 0.01847903867764758
+mean_squared_error : 0.01847903867764758
+
+Pose done : False; with value: 0.4432123298318385 ; In excercise:  1
+
+mean_squared_error : 0.01847903867764758
+
+Pose done : False; with value: 0.4432123298318385 ; In excercise:  1
+
+
+Pose done : False; with value: 0.4432123298318385 ; In excercise:  1
+
+mean_squared_error : 0.01847903867764758
+mean_squared_error : 0.014504226896691936
+mean_squared_error : 0.01847903867764758
+mean_squared_error : 0.014504226896691936
+
+Pose done : False; with value: 0.4432123298318385 ; In excercise:  1
+
+
+Pose done : False; with value: 0.33595526281622734 ; In excercise:  1
+
+mean_squared_error : 0.020841407412128907
+mean_squared_error : 0.020841407412128907
+
+Pose done : False; with value: 0.47117229431990104 ; In excercise:  1
+
+mean_squared_error : 0.020841407412128907
+mean_squared_error : 0.01702582964659118
+mean_squared_error : 0.020841407412128907
+mean_squared_error : 0.01702582964659118
+
+Pose done : False; with value: 0.47117229431990104 ; In excercise:  1
+
+
+Pose done : False; with value: 0.45037153682873177 ; In excercise:  1
+
+mean_squared_error : 0.01702582964659118
+mean_squared_error : 0.01702582964659118
+mean_squared_error : 0.01702582964659118
+mean_squared_error : 0.01702582964659118
+
+Pose done : False; with value: 0.45037153682873177 ; In excercise:  1
+
+
+Pose done : False; with value: 0.45037153682873177 ; In excercise:  1
+
+mean_squared_error : 0.015891971622192413
+mean_squared_error : 0.015891971622192413
+
+Pose done : False; with value: 0.47655185962513746 ; In excercise:  1
+
+mean_squared_error : 0.015891971622192413
+mean_squared_error : 0.015891971622192413
+
+Pose done : False; with value: 0.47655185962513746 ; In excercise:  1
+

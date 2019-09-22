@@ -1,9 +1,15 @@
-Gestor de dependencias CAOS
+Dependency Manager CAOS
 
-pip3 install caos
+Documentation Caos: https://pypi.org/project/caos/
 
-caos prepare
-caos update
-caos run
+To run do the next steps:
+install python 3
 
-Documentacion: https://pypi.org/project/caos/
+install CAPS:
+  pip3 install caos
+Setup the virtual environment:
+  caos prepare
+  caos update
+Run the aplication:
+  caos run
+

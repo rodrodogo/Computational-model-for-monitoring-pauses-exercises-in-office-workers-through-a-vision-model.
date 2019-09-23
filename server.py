@@ -1,6 +1,6 @@
 from flask import Flask, request, render_template
 from flask_socketio import *
-from validationPose import validate
+from validationPose import compare
 from log_test import print_name
 from ast import literal_eval
 import json
@@ -43,10 +43,10 @@ def get_rutine(id):
 #la funcion debe recibir un json el cual como primera componente tiene una variable "model" que es el modelo con el que se va a comparar
 #la pose que esta haciendo el usuario
 @socketio.on('stream')
-def compare( user_json):
+def validate( user_json):
 	# Transform the string json recived to a dictionary	
 	dict_json = literal_eval(user_json)
-	return validate(dict_json)	
+	return compare(dict_json)	
 @socketio.on('modelo')
 def compare( user_json):
 	# Transform the string json recived to a dictionary

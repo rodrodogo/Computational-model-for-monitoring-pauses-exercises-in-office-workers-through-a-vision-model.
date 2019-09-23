@@ -1,7 +1,7 @@
 from single_comparasion import *
 from log_test import print_result_pose
 
-def validate(user_json):
+def compare(user_json):
 	# we read the input json data in numpy arrays
 	score, score_partes, coordenadas_usuario  = transform_json(user_json)
 	#now we separate the first 5 points of array are for head points, the 7 next are for torso, and left are for legs
